@@ -134,7 +134,7 @@ Regardless of the collective expertise of a collaborative group of
 evaluators in conducting conformance evaluations, an organization may
 want to ensure periodic review by users with a variety of disabilities.
 There are many factors to consider in effectively [involving users in
-Web accessibility evaluations](http://www.w3.org/WAI/eval/users.html),
+Web accessibility evaluations]({{ "/test-evaluate/involving-users/" | relative_url }}),
 including ensuring diversity in disabilities represented, types of
 assistive technology used, and experience with the Web.
 
@@ -203,4 +203,4 @@ expertise needed for Web accessibility evaluation.
 -   {:#involveusers} Involvement of people with disabilities in
     evaluation
     -   [Involving Users in Web Accessibility
-        Evaluation](http://www.w3.org/WAI/eval/users.html)
+        Evaluation]({{ "/test-evaluate/involving-users/" | relative_url }})
