@@ -180,7 +180,7 @@ expertise needed for Web accessibility evaluation.
     -   [W3C Specifications and Standards](https://www.w3.org/TR/)
 -   {:#wcag} Web Content Accessibility Guidelines and Techniques
     -   [Web Content Accessibility Guidelines (WCAG)
-        Overview](https://www.w3.org/WAI/intro/wcag)
+        Overview]({{ "/standards-guidelines/wcag/" | relative_url }})
     -   [How to Meet WCAG 2.0 (Quick
         Reference)](http://www.w3.org/WAI/WCAG20/quickref/)
     -   [Web Content Accessibility Guidelines
