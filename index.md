@@ -165,7 +165,7 @@ collaborative evaluators in ongoing identification of gaps in expertise,
 and contribute to long-term improvement in the quality of evaluations.
 
 Feedback from experienced groups of evaluators on evaluation resources
-such as W3C/WAI's resources in[Evaluating Web Accessibility
+such as W3C/WAI's resources in [Evaluating Web Accessibility
 Overview](http://www.w3.org/WAI/eval/Overview) can, over time, also help
 improve the quality of evaluation support resources available to the
 broader Web community. Feedback links are available in the footers of
