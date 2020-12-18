@@ -1,3 +1,1 @@
-# Using Combined Expertise to Evaluate Web Accessibility
-
-Preview draft at: https://w3c.github.io/wai-combined-expertise/test-evaluate/combined-expertise/
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d9ab910a-4609-4c8a-b971-a5c6beb621de/deploy-status)](https://app.netlify.com/sites/wai-combined-expertise/deploys)
