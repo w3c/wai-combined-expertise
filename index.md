@@ -8,7 +8,6 @@ footer: >
   <p><strong>Date:</strong> Versions and links updated 9 January 2019. Substantive content updated 2002.</p>
   <p><strong>Editor:</strong> <a href="http://www.w3.org/People/Brewer">Judy Brewer</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="https://www.w3.org/WAI/EO/">EOWG</a>). Developed with support from <a href="http://www.w3.org/WAI/TIES/">WAI-TIES</a>, a project of the European Commission <abbr title="Information Society Technologies">IST</abbr> Programme</p>
-
 ---
 
 {::options toc_levels="2" /}
