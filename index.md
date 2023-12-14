@@ -62,7 +62,7 @@ in learning more about those areas. 
 -   Disability barriers, assistive technologies, and adaptive strategies
 -   Involvement of people with disabilities in evaluation
 
-Approaches for Collaborative Evaluation
+## Approaches for Collaborative Evaluation
 {:#composition}
 
 When first conducting a Web accessibility evaluation, the initial
@@ -92,7 +92,7 @@ Collaborative evaluation processes can involve:
     accessibility of their own Web site, who combine their diverse
     expertise & perspectives for higher quality evaluations
 
-Considerations in Combining Expertise
+## Considerations in Combining Expertise
 {:#operation}
 
 ### Centralized versus distributed evaluation capability
