@@ -1,1 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d9ab910a-4609-4c8a-b971-a5c6beb621de/deploy-status)](https://app.netlify.com/sites/wai-combined-expertise/deploys)
+> [!IMPORTANT]
+> This repository has been archived 18 April 2024.
+>
+> [Using Combined Expertise to Evaluate Web Accessibility](https://www.w3.org/WAI/test-evaluate/combined-expertise/) is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
